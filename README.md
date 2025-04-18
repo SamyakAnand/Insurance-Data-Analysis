@@ -36,25 +36,7 @@ This project delivers an interactive dashboard inspired by the data structure an
 - Develop interactive dashboards using Power BI.  
 - Create calculated metrics and KPIs using DAX for better data insights.  
 - Apply filtering techniques to derive meaningful patterns and actionable recommendations.  
-
-## Screenshots  
-Here are key snapshots of the Insurance Data Analysis Dashboard for better visualization:  
-
-### 1. Overview Page  
-Provides a high-level summary of key metrics such as premium totals, claim distributions, and customer demographics.  
-![Overview Page Screenshot](E:/Insurance%20Data%20analysis/Screenshots/Overview%20page.png)  
-
----
-
-### 2. Table Page  
-Displays detailed tabular data, allowing granular exploration of policy details, claim statuses, and other important data points.  
-![Table Page Screenshot](E:/Insurance%20Data%20analysis/Screenshots/Table%20page.png)  
-
----
-
-### 3. Feedback Page  
-This page highlights customer feedback analysis, with sentiment scores and categorized comments providing actionable insights for service improvement.  
-![Feedback Page Screenshot](E:/Insurance%20Data%20analysis/Screenshots/Feedback%20page.png)  
+ 
 
 ---
 
