@@ -1,5 +1,5 @@
 
-# Insurance Claim Analysis Dashboard (Tutorial Project)
+# Insurance Data Analysis Dashboard 
 
 ## Overview
 This project showcases a tutorial-based interactive dashboard inspired by the data structure and business model of **PRISM Insurance Pvt. Ltd.** The dashboard demonstrates effective analysis of insurance data to derive insights into policy performance, customer demographics, and claim behaviors. While the data used is not sourced directly from PRISM Insurance, it closely aligns with typical datasets in the insurance domain, making it an excellent tool for learning and exploration.
@@ -41,5 +41,4 @@ The dashboard analyzes key metrics such as **premium amounts**, **coverage total
 ## Disclaimer
 This project is based on a tutorial and uses synthesized data that mimics typical insurance datasets. The information and visualizations are not sourced from or affiliated with **PRISM Insurance Pvt. Ltd.** and are intended for **educational and learning purposes only**.
 
----# Insurance-Data-Analysis
-# Insurance-Data-Analysis
+
