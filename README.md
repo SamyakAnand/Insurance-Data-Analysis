@@ -38,6 +38,22 @@ The dashboard analyzes key metrics such as **premium amounts**, **coverage total
 - Create calculated metrics and KPIs using DAX for better data insights.
 - Apply filtering techniques to derive meaningful patterns and actionable recommendations.
 
+Screenshots
+Here are key snapshots of the Insurance Data Analysis Dashboard:
+1. Overview Page
+This page provides a high-level summary of key metrics such as premium totals, claim distributions, and customer demographics.
+## Overview
+![Overview Page Screenshot](E:\Insurance Data analysis\Screenshots\Overview page.png)
+2. Table Page
+This page contains detailed tabular data, allowing granular exploration of policy details, claim statuses, and other key data points.
+### Table 
+![Table Page Screenshot](E:\Insurance Data analysis\Screenshots\Table page.png)
+3. Feedback Page
+This page highlights customer feedback analysis, with sentiment scores and categorized comments providing insights for improvement.
+### Feedback Page
+![Feedback Page Screenshot](E:\Insurance Data analysis\Screenshots\Feedback page.png)
+
+
 ## Disclaimer
 This project is based on a tutorial and uses synthesized data that mimics typical insurance datasets. The information and visualizations are not sourced from or affiliated with **PRISM Insurance Pvt. Ltd.** and are intended for **educational and learning purposes only**.
 
