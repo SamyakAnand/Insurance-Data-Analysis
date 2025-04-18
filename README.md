@@ -1,60 +1,63 @@
 
-# Insurance Data Analysis Dashboard 
 
-## Overview
-This project showcases a tutorial-based interactive dashboard inspired by the data structure and business model of **PRISM Insurance Pvt. Ltd.** The dashboard demonstrates effective analysis of insurance data to derive insights into policy performance, customer demographics, and claim behaviors. While the data used is not sourced directly from PRISM Insurance, it closely aligns with typical datasets in the insurance domain, making it an excellent tool for learning and exploration.
+# Insurance Data Analysis Dashboard  
 
-The dashboard analyzes key metrics such as **premium amounts**, **coverage totals**, and **claim distributions**, segmented by **policy type**, **age group**, and **customer activity status**. With dynamic filters and visually engaging charts, the dashboard offers the flexibility to explore trends, identify patterns, and generate actionable insights.
+## Overview  
+This project delivers an interactive dashboard inspired by the data structure and business model of **PRISM Insurance Pvt. Ltd.** The dashboard demonstrates effective analysis of insurance data to provide insights into policy performance, customer demographics, and claim behavior. The data reflects key metrics like premium amounts, coverage totals, and claim distributions, segmented by **policy type**, **age group**, and **customer activity status**. With dynamic filters and visually engaging charts, the dashboard offers flexibility to explore trends, uncover patterns, and generate actionable insights.  
 
-## Key Insights
-1. **Customer Demographics**:
-   - Gender distribution analysis, aiding customer segmentation strategies.
-   - Segmentation of customers into age groups (Young, Adult, Elder) for demographic-specific insights.
+## Key Insights  
+1. **Customer Demographics**:  
+   - Gender distribution analysis, aiding customer segmentation strategies.  
+   - Segmentation of customers into age groups (Young, Adult, Elder) for demographic-specific insights.  
 
-2. **Financial Overview**:
-   - Aggregated totals for premium, coverage, and claim amounts.
-   - Breakdown of premium amounts by policy type for revenue trend analysis.
+2. **Financial Overview**:  
+   - Aggregated totals for premium, coverage, and claim amounts.  
+   - Breakdown of premium amounts by policy type for revenue trend analysis.  
 
-3. **Claims Analysis**:
-   - Distribution of claim amounts by age groups for behavioral study.
-   - Status-wise claim counts (Pending, Settled, Rejected) segmented by policy type.
-   - Financial summary for pending and rejected claims by policy type.
+3. **Claims Analysis**:  
+   - Distribution of claim amounts by age groups for behavioral study.  
+   - Status-wise claim counts (Pending, Settled, Rejected) segmented by policy type.  
+   - Financial summary for pending and rejected claims by policy type.  
 
-4. **Customer Activity**:
-   - Analysis of active vs. inactive customers for retention and engagement strategies.
+4. **Customer Activity**:  
+   - Analysis of active vs. inactive customers for retention and engagement strategies.  
 
-5. **Interactivity**:
-   - Filters for **Policy Number**, **Claim Number**, and **Customer ID** enabling granular analysis.
+5. **Interactivity**:  
+   - Filters for **Policy Number**, **Claim Number**, and **Customer ID**, enabling granular analysis.  
 
-## Tools & Technologies Used
-- **SQL Server**: Structured relational database management for scalable and accurate data analysis.
-- **Power Query**: Simplified data cleaning, transformation, and preprocessing.
-- **DAX (Data Analysis Expressions)**: Creation of dynamic metrics and calculations for enhanced insights.
-- **Power BI**: Intuitive dashboard creation with rich visualizations and interactivity.
+## Tools & Technologies Used  
+- **SQL Server**: Structured relational database management for scalable and accurate data analysis.  
+- **Power Query**: Simplified data cleaning, transformation, and preprocessing.  
+- **DAX (Data Analysis Expressions)**: Creation of dynamic metrics and calculations for enhanced insights.  
+- **Power BI**: Intuitive dashboard creation with rich visualizations and interactivity.  
 
-## Learning Objectives
-- Understand the process of cleaning, structuring, and analyzing insurance-related data.
-- Develop interactive dashboards using Power BI.
-- Create calculated metrics and KPIs using DAX for better data insights.
-- Apply filtering techniques to derive meaningful patterns and actionable recommendations.
+## Learning Objectives  
+- Understand the process of cleaning, structuring, and analyzing insurance-related data.  
+- Develop interactive dashboards using Power BI.  
+- Create calculated metrics and KPIs using DAX for better data insights.  
+- Apply filtering techniques to derive meaningful patterns and actionable recommendations.  
 
-Screenshots
-Here are key snapshots of the Insurance Data Analysis Dashboard:
-1. Overview Page
-This page provides a high-level summary of key metrics such as premium totals, claim distributions, and customer demographics.
-## Overview
-![Overview Page Screenshot](E:\Insurance Data analysis\Screenshots\Overview page.png)
-2. Table Page
-This page contains detailed tabular data, allowing granular exploration of policy details, claim statuses, and other key data points.
-### Table 
-![Table Page Screenshot](E:\Insurance Data analysis\Screenshots\Table page.png)
-3. Feedback Page
-This page highlights customer feedback analysis, with sentiment scores and categorized comments providing insights for improvement.
-### Feedback Page
-![Feedback Page Screenshot](E:\Insurance Data analysis\Screenshots\Feedback page.png)
+## Screenshots  
+Here are key snapshots of the Insurance Data Analysis Dashboard for better visualization:  
 
+### 1. Overview Page  
+Provides a high-level summary of key metrics such as premium totals, claim distributions, and customer demographics.  
+![Overview Page Screenshot](E:/Insurance%20Data%20analysis/Screenshots/Overview%20page.png)  
 
-## Disclaimer
-This project is based on a tutorial and uses synthesized data that mimics typical insurance datasets. The information and visualizations are not sourced from or affiliated with **PRISM Insurance Pvt. Ltd.** and are intended for **educational and learning purposes only**.
+---
 
+### 2. Table Page  
+Displays detailed tabular data, allowing granular exploration of policy details, claim statuses, and other important data points.  
+![Table Page Screenshot](E:/Insurance%20Data%20analysis/Screenshots/Table%20page.png)  
+
+---
+
+### 3. Feedback Page  
+This page highlights customer feedback analysis, with sentiment scores and categorized comments providing actionable insights for service improvement.  
+![Feedback Page Screenshot](E:/Insurance%20Data%20analysis/Screenshots/Feedback%20page.png)  
+
+---
+
+## Disclaimer  
+This project utilizes synthesized data modeled on industry examples. The insights and visualizations are not sourced from, nor directly affiliated with, **PRISM Insurance Pvt. Ltd.** and are intended to showcase data analysis capabilities.  
 
